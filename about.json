@@ -1,0 +1,8 @@
+{
+   "name" : "Bletch's big font theme component",
+   "about_url" : "",
+   "license_url": "",
+   "assets": {
+        "roboto": "assets/roboto.woff2"
+   }
+}
