@@ -1,7 +1,7 @@
 {
-   "name" : "Bletch's big font theme component",
-   "about_url" : "",
-   "license_url": "",
+   "name" : "Bletch's Roboto Font Theme Component",
+   "about_url" : "https://github.com/DannyGoodall/discourse-robot-font",
+   "license_url": "https://github.com/DannyGoodall/discourse-robot-font/blob/master/LICENSE",
    "assets": {
         "roboto": "assets/roboto.woff2"
    }
